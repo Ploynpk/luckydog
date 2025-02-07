@@ -1,4 +1,4 @@
-# Lucky Dog (On process...) <img src="/favicon.ico" width="50">
+# Lucky Dog (On process...) <img src="public/favicon.ico" width="50">
 
 # Fetch Frontend Take-Home Exercise 
 
