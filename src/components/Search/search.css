@@ -1,0 +1,66 @@
+.filter-sort-container {
+  display: flex;
+  flex-direction: column; 
+  gap: 15px; 
+  margin-bottom: 20px;
+  padding: 15px;
+  border: 1px solid #ddd;
+  border-radius: 8px;
+  background-color: #f9f9f9;
+}
+
+.filter-section,
+.sort-section {
+  display: flex;
+  flex-direction: row; 
+  align-items: center; 
+  gap: 10px; 
+}
+
+.filter-section label,
+.sort-section label {
+  text-align: right; 
+  width: 150px; 
+  flex-shrink: 0; 
+}
+
+.filter-section input[type='text'],
+.filter-section input[type='number'],
+.sort-section select,
+#breed-select {
+  padding: 8px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  font-size: 1em;
+  width: 200px; 
+}
+
+.filter-section.age-filter {
+  flex-direction: row; 
+  align-items: center;
+  gap: 10px 20px; 
+}
+
+.filter-section.age-filter label {
+  width: auto;
+  text-align: left;
+}
+
+.filter-section.age-filter input[type='number'] {
+  width: 80px; 
+}
+
+.search-button {
+  padding: 12px 25px;
+  font-size: 1.1em;
+  background-color: #007bff; 
+  color: white;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  margin-top: 20px; 
+}
+
+.search-button:hover {
+  background-color: #0056b3; 
+}
