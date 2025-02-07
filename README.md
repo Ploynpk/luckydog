@@ -1,4 +1,4 @@
-# Lucky Dog (On process...) <img src="/client/public/favicon.ico" width="50">
+# Lucky Dog (On process...) <img src="/favicon.ico" width="50">
 
 # Fetch Frontend Take-Home Exercise 
 
@@ -28,7 +28,8 @@ This project is a frontend application built with React to search for shelter do
 1.  **Clone the repository:**
 
     ```bash
-    git clone
+    git clone https://github.com/Ploynpk/luckydog.git
+
     cd luckydog
     ```
 
@@ -50,13 +51,5 @@ This project is a frontend application built with React to search for shelter do
 
 ## Deployment
 
-The application is deployed and accessible at [https://www.luckydog.com] (https://www.luckydog.com).
+The application will be deployed and accessible at [https://www.luckydog.com](https://www.luckydog.com).
 
-## Repository
-
-The source code for this project is available on GitHub at [https://github.com/Ploynpk/luckydog.git  ] (https://github.com/Ploynpk/luckydog.git).
-
-## Notes
-
-- This application interacts with the Fetch Dog API from Fetch's assignment.
-- User authentication is handled via cookies.
