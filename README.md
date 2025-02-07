@@ -1,25 +1,25 @@
-# Lucky Dog
+# Lucky Dog (On process...) <img src="/client/public/favicon.ico" width="50">
 
-# Fetch Frontend Take-Home Exercise - Dog Search App
+# Fetch Frontend Take-Home Exercise 
 
 This project is a frontend application built with React to search for shelter dogs using the Fetch API. It allows users to browse dogs, filter by breed, sort results, paginate through results, and favorite dogs to generate a potential match.
 
 ## Features
 
-- User Login (Name and Email)
-- Browse available dogs with pagination
-- Filter dogs by breed
-- Sort dogs by breed, name, or age (ascending/descending)
-- Favorite dogs
-- Generate a match based on favorited dogs
-- Displays all dog information (image, name, breed, age, zip code)
-- Responsive design using Material UI
+- User Login (Name and Email) (Done)
+- Browse available dogs with pagination (Done)
+- Filter dogs by breed (Done)
+- Sort dogs by breed, name, or age (ascending/descending) (Done)
+- Favorite dogs (Done)
+- Generate a match based on favorited dogs (Done)
+- Displays all dog information (image, name, breed, age, zip code) (Done)
+- Sorting and Searching by Location (On process..)
+- Responsive design with CSS (On process..)
 
 ## Technologies Used
 
 - React
-- React Router DOM
-- Axios
+- Fetch API
 - CSS
 - Webpack
 
@@ -50,14 +50,13 @@ This project is a frontend application built with React to search for shelter do
 
 ## Deployment
 
-The application is deployed and accessible at [deployed-link] (deployed link).
+The application is deployed and accessible at [https://www.luckydog.com] (https://www.luckydog.com).
 
 ## Repository
 
-The source code for this project is available on GitHub at [repository-link-here] (repository link).
+The source code for this project is available on GitHub at [https://github.com/Ploynpk/luckydog.git  ] (https://github.com/Ploynpk/luckydog.git).
 
 ## Notes
 
-- This application interacts with the Fetch Dog API (https://frontend-take-home-service.fetch.com).
+- This application interacts with the Fetch Dog API from Fetch's assignment.
 - User authentication is handled via cookies.
-- The application uses Material UI for styling and components to ensure a responsive and user-friendly interface.
