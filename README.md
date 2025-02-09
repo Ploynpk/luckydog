@@ -1,7 +1,5 @@
 # Lucky Dog (On process...) <img src="public/favicon.ico" width="50">
 
-# Fetch Frontend Take-Home Exercise 
-
 This project is a frontend application built with React to search for shelter dogs using the Fetch API. It allows users to browse dogs, filter by breed, sort results, paginate through results, and favorite dogs to generate a potential match.
 
 ## Features
